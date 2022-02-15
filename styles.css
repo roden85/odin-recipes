@@ -1,0 +1,23 @@
+h1 {
+    font-family: Laila, sans-serif;
+    font-size: 5em;
+    text-align: center;
+    background-color: #e76f51;
+    color: white;
+}
+
+body {
+    background-color: #e9c46a;
+}
+
+.index-list {
+    font-family: Nunito, sans-serif;
+    text-align: center;
+    list-style:  none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
